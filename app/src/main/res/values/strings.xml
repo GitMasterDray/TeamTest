@@ -10,6 +10,7 @@
 
     <!-- strings used for output -->
     <string name="hello">Hello there…</string>
+    <string name="dre">Your boy, Dre</string>
     <string name="hauntedTxt">Somebody is home</string>
     <string name="smile">Smile Big!</string>
     <string name="nothing">Nothing to see here</string>
